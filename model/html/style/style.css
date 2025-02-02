@@ -1,0 +1,7 @@
+@charset "UTF-8";
+#container {
+    height: 100%;
+    background-color: #ffd5f2;
+    border: 0.6vw double #623D13;
+    color: #5A3002;
+}
